@@ -153,7 +153,7 @@ const gamearea = {
         if (gamearea.score < 100) {
             alert('Game over (*_*) !! ');
         } else {
-            alert('You Won !!!');
+            alert('You Won !!! Предложения по работе - hudatov@gmail.com');
         }
         audio1.play();
     },
