@@ -1,1 +1,1 @@
-# bouncing-ball-game
+# bouncing-game
